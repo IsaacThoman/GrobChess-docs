@@ -4,27 +4,13 @@ Welcome to the documentation for the [GrobChess](https://github.com/IsaacThoman/
 
 
 ### Getting board state
-
-Arguments:'channel'
+Arguments:`channel`
+Example:`api/chess?channel=1234`
 
 Returns the state of the current board.
 
-```markdown
-Syntax highlighted code block
+```
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
