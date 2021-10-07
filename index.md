@@ -4,7 +4,7 @@ Welcome to the documentation for the [GrobChess](https://github.com/IsaacThoman/
 
 
 ### Getting board state
-Returns the current state of the board
+#### Returns the current state of the board
 
 Arguments:`channel`
 
