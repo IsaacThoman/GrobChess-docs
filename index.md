@@ -19,11 +19,9 @@ The first character is either 'w' for white's move, or 'b' for black's move.
 
 Chars 1-64 each represent a square on the board. The last 4 chars include the last move made in standard move notation.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Making moves
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IsaacThoman/api-docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
