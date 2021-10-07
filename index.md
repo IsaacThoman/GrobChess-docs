@@ -31,7 +31,7 @@ Returns:
 200 OK
 ```
 
-Makes the move in the given channel if it's legal.
+Checks the given move for legality and makes it on the given board number.
 
 ### Support or Contact
 
