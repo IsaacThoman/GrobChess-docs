@@ -33,4 +33,4 @@ Returns:
 200 OK
 ```
 
-Checks the given move for legality and makes it on the given board number.
+Moves the piece at e2 to e4
