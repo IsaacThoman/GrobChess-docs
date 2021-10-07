@@ -24,17 +24,14 @@ Chars 1-64 each represent a square on the board. The last 4 chars include the la
 
 Arguments:`message`,`channel`
 
-Example: GET `api/chess?channel=1234`
+Example: POST `api/chess?message=e2e4&channel=1234`
 
 Returns:
 ```
-"w43256234111111110000000000000000000000000000000077777777a98bc89aSTOP0000"
+200 OK
 ```
 
-The first character is either 'w' for white's move, or 'b' for black's move. 
-
-Chars 1-64 each represent a square on the board. The last 4 chars include the last move made in standard move notation.
-
+Makes the move in the given channel if it's legal.
 
 ### Support or Contact
 
