@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## GrobChess API
 
-You can use the [editor on GitHub](https://github.com/IsaacThoman/api-docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the documentation for the [GrobChess](https://github.com/IsaacThoman/GrobChess) API. You can use this API to create and interact with games on GrobChess.com.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Getting board state
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Arguments:'channel'
+
+Returns the state of the current board.
 
 ```markdown
 Syntax highlighted code block
