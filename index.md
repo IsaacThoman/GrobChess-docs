@@ -2,6 +2,8 @@
 
 Welcome to the documentation for the [GrobChess](https://github.com/IsaacThoman/GrobChess) API. You can use this API to create and interact with games on GrobChess.com.
 
+The API is hosted at api.grobchess.com
+
 
 ### Getting board state
 #### Returns the current state of the board
