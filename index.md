@@ -4,10 +4,13 @@ Welcome to the documentation for the [GrobChess](https://github.com/IsaacThoman/
 
 
 ### Getting board state
-Arguments:`channel`
-Example:`api/chess?channel=1234`
+Returns the current state of the board
 
-Returns the state of the current board.
+Arguments:`channel`
+
+Example: GET `api/chess?channel=1234`
+
+
 
 ```
 
